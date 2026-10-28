@@ -34,6 +34,10 @@ A curated list of awesome AI-powered astrology apps, tools, and resources to exp
 - **Description:** Tarot card reading of the future!
 - **Features:** Get a free tarot card reading.
 
+### 5. [AstralHoro](https://astralhoro.com/yesno)
+- **Description:** Free yes/no oracle, online tarot spreads, moon-sign and rising/ascendant calculators in the browser.
+- **Features:** Yes/no pulls, tarot spreads, moon pages, rising calculator — no signup.
+
 ---
 
 ## APIs
